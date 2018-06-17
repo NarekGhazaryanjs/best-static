@@ -1,0 +1,33 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.NewsContainer {
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+}
+
+.news-items {
+    box-shadow: 2px 2px  #aaaaaa;
+    width: 70%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.news-items2 {
+    box-shadow: 1px 0px 4px 0px  #aaaaaa;
+    margin: 0 auto;
+}
+
+.news-items4 {
+    box-shadow: 1px 0px 4px 0px  #aaaaaa;
+    margin: 0 auto;
+}
+
+.Under_Head_News {
+    font-size: 2rem;
+}

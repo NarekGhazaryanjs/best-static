@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.images {
+    margin: 0 auto;
+    height: 500px;
+}
+
+.Carusel_content {
+    height: 200px;
+}

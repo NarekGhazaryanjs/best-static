@@ -1,0 +1,14 @@
+.Story_div {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.Story_text {
+    font-weight: bold;
+    color: rgb(95, 51, 51);
+}
+
+.Story_text:hover {
+  color: black;
+}
